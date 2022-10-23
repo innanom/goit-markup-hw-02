@@ -1,0 +1,76 @@
+body {
+    font-family: Roboto, sans-serif;
+    background-color: #FFFFFF;
+    color: #757575;
+}
+.logo {
+    font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 26px;
+        line-height: 1.19;
+        letter-spacing: 0.03em;
+    
+        color: #2196F3;
+}
+.logo-header {
+    color:#000000;
+}
+ul {
+    list-style: none;
+}
+/*  Навігація сайту*/
+.site-nav .link {
+    color: #212121;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
+}
+.site-nav .link:hover,
+.site-nav .link:focus {
+    color: #2196F3;
+}
+.contacts {
+    color: #757575;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
+}
+.contacts:hover,
+.contacts:focus {
+    color: #2196F3;
+}
+/* Герой */
+
+
+/*Секції*/
+.section-title {
+    color: #212121;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.17;
+    text-align: center;
+    letter-spacing: 0.03em;
+}
+.section-subtitle {
+    color: #212121;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 1,14;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;        
+}
+
+/* #2196F3; акцент */
+/* #212121; чорний колір навігації*/
+/* #000000 #2196F3 колір лого WebStudio */
+/*  #FFFFFF білий Ефективні рішення для вашого бізнесу, замовити послугу,  */
+/* #212121 всі заголовки */
+/* rgba(255, 255, 255, 0.6); контакти внизу */
+/* #757575; текс (абзаци) номер телефону  зверху */
