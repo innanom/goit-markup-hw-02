@@ -113,7 +113,7 @@ body {
     color: var(--primary-heading-color);
     font-weight: 700;
     font-size: 14px;
-    line-height: 1,14;
+    line-height: 1.14;
     letter-spacing: 0.03em;        
 }
 .section-subtitle .transform {
@@ -133,6 +133,7 @@ body {
 }
 /* Footer*/
 .address {
+        font-style: normal;
         font-size: 14px;
         line-height: 1.71;
         letter-spacing: 0.03em;  
@@ -168,7 +169,6 @@ body {
 }
 .group-title {
     color: var(--primary-heading-color);
-    font-weight: 700;
     font-size: 18px;
     line-height: 2;
     letter-spacing: 0.06em;
